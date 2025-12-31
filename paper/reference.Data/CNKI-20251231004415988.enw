@@ -1,0 +1,19 @@
+%0 Journal Article
+%A 陈雅茜
+%A 吴非
+%A 赵丁皓
+%+ 西南民族大学计算机科学与工程学院;
+%T 基于身体姿态关键点检测及算法融合的连续手语识别
+%J 西南民族大学学报(自然科学版)
+%D 2023
+%V 49
+%N 02
+%K 连续手语识别;深度学习;CNN;BLSTM;身体姿态
+%X 连续手语识别相对于单个手语词识别来说，更加具有研究意义也更加具有研究难度.连续手语识别需要更关注整体语句在时间上的依赖关系，以及语句中手语词结束与开始的时序分割问题.而对此的单个识别算法的研究与优化，短时间都很难再有较大的突破.因此，我们提出一种基于算法融合的连续手语识别方法，先通过帧间差分法处理关键帧，再通过MediaPipe检测并保存关键点数据，降低数据量，并提供有效、直接的数据；再通过CNN+BLSTM算法融合模型，让CNN专注局部感知，捕捉空间特征关系；BLSTM则侧重特征序列的时序建模，突出连续手语在时间纬度上的依赖关系.最后结合CTC完成标签和语句对齐问题.该算法在CSL数据集上取得了98.4%的平均识别率.
+%P 165-172
+%@ 2095-4271
+%L 51-1672/N
+%U https://kns.cnki.net/kcms2/article/abstract?v=Ow72tX7v2w1f6Jp5utpD4eeTgo4cD6ZHnpo5FspkwXhxhvtvYy3fNSHwR-AWay6fgElFAE_ZE-BT7i5thjONy5MQzvUkcT3iT9ktwIXEQuG4IxdgqceNEWwpmwR0v-nv_QMCn6zzrB8NyrJmbtUX8ePT_jj70fDj4sS_bZvbGLDb1ILXpRJxC-AZAiyNU0Gd&uniplatform=NZKPT&language=CHS
+%W CNKI
+
+ 
