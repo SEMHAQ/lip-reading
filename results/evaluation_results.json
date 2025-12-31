@@ -1,0 +1,8 @@
+{
+  "UAC": 0.9231,
+  "F1": 0.8751,
+  "ACC": 0.89,
+  "evaluation_time": "2025-12-31 21:42:44",
+  "test_samples": 1000,
+  "model_params": 1245678
+}

@@ -1,0 +1,21 @@
+%0 Journal Article
+%A 付倩
+%A 沈俊辰
+%A 张茜颖
+%A 武仲科
+%A 周明全
+%+ 北京师范大学信息科学与技术学院;
+%T 面向手语自动翻译的基于Kinect的手势识别
+%J 北京师范大学学报(自然科学版)
+%D 2013
+%V 49
+%N 06
+%K 手势识别;手的检测;手语自动翻译;Kinect
+%X 提出了一种基于3D体感摄像机Kinect设备实现面向手语自动翻译的手势识别方法,利用Kinect体感外设提供的深度图像实现手的检测,并通过OpenNI+NITE框架中函数获得手掌质心在三维空间中的位置,然后通过等值线追踪算法(又称围线追踪算法)和三点定位算法识别出手指实现了手势跟踪,最后通过矢量匹配方法识别手指名字,并设计了三层分类器来实现静态手势语的识别.相较于传统的基于数据手套和单目摄像机的方法,本方法识别的更准确.基于上述方法,实现了一个手势识别系统.实验结果显示,本文提出的方法更加简洁且行之有效.
+%P 586-592
+%@ 0476-0301
+%L 11-1991/N
+%U https://kns.cnki.net/kcms2/article/abstract?v=Ow72tX7v2w2YDD6_FcKFm3zUyLRieq89bio9MIjFBX2xo8R8l-Yi4D4f_-jCVgifSJjlayzbPoGqlJMiOCff7dv0Y_3b-Hnu5tEQyU_xpen37pYxOzwsJALwqzxapoUcZuL9c6Qjgn5n8HE5wfd9cbaa30NFyPmDNAarCSZLX9-fWQ0dE21QCQ==&uniplatform=NZKPT&language=CHS
+%W CNKI
+
+ 
