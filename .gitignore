@@ -31,6 +31,15 @@ models/*.ckpt
 *.xls
 *.xlsx
 
+# Reference manager data
+*.enw
+*.enl
+*.eni
+reference.Data/
+
+# Figure assets (source files)
+paper/figure/assets/
+
 # Temporary files
 ~*
 *.tmp
