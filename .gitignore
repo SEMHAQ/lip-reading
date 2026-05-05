@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+.env
+
+# IDE & Tools
+.idea/
+.vscode/
+.claude/
+*.swp
+*.swo
+
+# Model weights (large files)
+models/*.h5
+models/*.pt
+models/*.pth
+models/*.ckpt
+
+# Documents (binary files)
+*.doc
+*.docx
+*.pdf
+*.ppt
+*.pptx
+*.xls
+*.xlsx
+
+# Temporary files
+~*
+*.tmp
+~$*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
